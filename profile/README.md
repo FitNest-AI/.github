@@ -5,4 +5,7 @@
   </a>
 </p>
 
+# About
+Fitnest. is a game-style get fit application based on online mobile platform.
+Fitnest. offers a digital way to learn, achieve and maintain body fitness for varying ages and abilities. Fitnest. also provides personalized user experiences with various Artificial Intelligences.
 
